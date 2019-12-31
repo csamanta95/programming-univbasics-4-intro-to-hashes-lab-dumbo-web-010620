@@ -5,7 +5,7 @@ end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
-{:food => chicken, :favorite_num => 8}
+{ "Food" => "chicken" }
 end
 
 def pioneer
